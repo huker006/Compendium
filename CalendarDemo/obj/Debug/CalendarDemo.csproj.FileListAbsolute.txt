@@ -1,0 +1,10 @@
+C:\Users\Администратор\Documents\GitHub\Compendium\CalendarDemo\bin\Debug\CalendarDemo.exe
+C:\Users\Администратор\Documents\GitHub\Compendium\CalendarDemo\bin\Debug\CalendarDemo.pdb
+C:\Users\Администратор\Documents\GitHub\Compendium\CalendarDemo\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\Администратор\Documents\GitHub\Compendium\CalendarDemo\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\Администратор\Documents\GitHub\Compendium\CalendarDemo\obj\Debug\CalendarDemo.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\GitHub\Compendium\CalendarDemo\obj\Debug\CalendarDemo.DemoForm.resources
+C:\Users\Администратор\Documents\GitHub\Compendium\CalendarDemo\obj\Debug\CalendarDemo.Properties.Resources.resources
+C:\Users\Администратор\Documents\GitHub\Compendium\CalendarDemo\obj\Debug\CalendarDemo.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\GitHub\Compendium\CalendarDemo\obj\Debug\CalendarDemo.exe
+C:\Users\Администратор\Documents\GitHub\Compendium\CalendarDemo\obj\Debug\CalendarDemo.pdb
